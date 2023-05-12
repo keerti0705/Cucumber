@@ -1,0 +1,8 @@
+com\training\runner\Runner.class
+com\training\steps\Steps.class
+com\training\pagefactory\PageFactory.class
+com\training\pages\AccountsPage.class
+com\training\pages\LoginPage.class
+com\training\pages\OpportunitiesPage.class
+com\training\pages\UserMenuPage.class
+com\training\pages\LeadsPage.class
